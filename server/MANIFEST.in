@@ -1,0 +1,2 @@
+include blue_api/schema.sql
+global-exclude *.pyc

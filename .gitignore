@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
-/dist
+client/dist/*
+*.egg-info
+*.sqlite
 
 /tests/e2e/reports/
 selenium-debug.log

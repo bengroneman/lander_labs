@@ -1,2 +1,17 @@
+attrs==21.2.0
+-e git+https://github.com/bengroneman/lander_labs.git@c3881ab54e67c9795e38079b5f1e9c0666bf63d6#egg=blue_api&subdirectory=server
+click==8.0.1
 Flask==2.0.1
 Flask-Cors==3.0.10
+iniconfig==1.1.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+packaging==21.0
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.4
+six==1.16.0
+toml==0.10.2
+Werkzeug==2.0.1

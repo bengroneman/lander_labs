@@ -13,7 +13,7 @@ def create_app():
 app = create_app()
 
 
-@app.route("/events")
+@app.route("/api/events")
 def home():
     return "<p>Hello, World!</p>"
 
